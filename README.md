@@ -38,13 +38,13 @@ and which loan cohorts carried highest risk.
 https://github.com/ASAnalyticsBI/Retail_Banking_Credit_Risk_Intelligence/blob/main/Page1_Executive_%20overview.png
 
 ### Page 2: Credit Risk Intelligence
-![Credit Risk](screenshots/page2_credit_risk_intelligence.png)
+https://github.com/ASAnalyticsBI/Retail_Banking_Credit_Risk_Intelligence/blob/main/Page2_Credit_Risk_Intelligence.png
 
 ### Page 3: Recovery Analysis
-![Recovery](screenshots/page3_recovery_analysis.png)
+https://github.com/ASAnalyticsBI/Retail_Banking_Credit_Risk_Intelligence/blob/main/Page3_Recovery_Analysis.png
 
 ### Page 4: Strategic Recommendations
-![Recommendations](screenshots/page4_recommendations.png)
+https://github.com/ASAnalyticsBI/Retail_Banking_Credit_Risk_Intelligence/blob/main/Page4_Recommendations.png
 
 ## Tools & Methods
 - **Python:** Data cleaning pipeline — 96.8% data quality achieved
