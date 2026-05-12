@@ -35,7 +35,7 @@ and which loan cohorts carried highest risk.
 ## Dashboard — 4 Pages
 
 ### Page 1: Executive Overview
-![Executive Overview](screenshots/page1_executive_overview.png)
+https://github.com/ASAnalyticsBI/Retail_Banking_Credit_Risk_Intelligence/blob/main/Page1_Executive_%20overview.png
 
 ### Page 2: Credit Risk Intelligence
 ![Credit Risk](screenshots/page2_credit_risk_intelligence.png)
